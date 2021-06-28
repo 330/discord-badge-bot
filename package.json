@@ -1,0 +1,27 @@
+{
+  "//1": "DEVELOPED BY cat#4321",
+  "name": "codes",
+  "version": "0.0.1",
+  "description": "Cat Badge Role Bot",
+  "main": "cat.js",
+  "scripts": {
+    "start": "node cat.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.24.0",
+    "chalk": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "cat",
+    "express"
+  ]
+}
