@@ -1,4 +1,5 @@
 Cat Badge Bot
+----------------------------------------------------------------------------------------------------------------------
 ➤ I wanted to share with you my bot that gives roles according to the badge, which I think can be useful to people.
 ➤ İnsanlara faydalı olabileceğini düşündüğüm rozete göre roller veren botumu sizlerle paylaşmak istedim.
 ----------------------------------------------------------------------------------------------------------------------
